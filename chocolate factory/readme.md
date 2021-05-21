@@ -2,6 +2,10 @@
 ## Description
 This <a href="https://tryhackme.com/room/chocolatefactory">challenge</a> is provided by <a href="https://tryhackme.com">https://tryhackme.com</a>
 <p align="center">
+<image src="https://user-images.githubusercontent.com/78603128/119178388-40d27480-baa0-11eb-993b-8562f0efcd54.png"/>
+</p>
+
+<p align="center">
 <image src="https://user-images.githubusercontent.com/78603128/119040663-43719300-b9e8-11eb-93b9-9084d21a8b85.png"/>
  <ul>
 <li><image src="https://user-images.githubusercontent.com/78603128/119169950-2fd03600-ba95-11eb-85d3-5ccf91320077.png"/></li>
