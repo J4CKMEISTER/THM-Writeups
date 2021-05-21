@@ -1,3 +1,10 @@
+<style>
+ #content{
+ font-size: large;
+ }
+ 
+ </style>
+ <div id="content">
 ## Description
 <p align="center">
 <image src="https://user-images.githubusercontent.com/78603128/119040663-43719300-b9e8-11eb-93b9-9084d21a8b85.png"/>
@@ -100,7 +107,8 @@ looking around charlie directory , we found RSA private and public key to login 
 <p align="center">
 <image src="https://user-images.githubusercontent.com/78603128/119149549-36a07e00-ba80-11eb-9cd8-c3f5e9b77a83.png"/>
 </p>
-
+  
+</div>
 
 
 
