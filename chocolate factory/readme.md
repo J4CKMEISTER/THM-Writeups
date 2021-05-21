@@ -108,8 +108,20 @@ looking around charlie directory , we found RSA private and public key to login 
 <image src="https://user-images.githubusercontent.com/78603128/119149549-36a07e00-ba80-11eb-9cd8-c3f5e9b77a83.png"/>
 </p>
   
+Copy content of **teleport** and paste into your local empty file , in my case i saved it into **rsa_key** file
+<p align="center">
+<image src="https://user-images.githubusercontent.com/78603128/119170350-b4bb4f80-ba95-11eb-8961-b6b012f61dca.png"/>
+</p>
 
+Remember to chmod 700 on the saved file 
+<p align="center">
+<image src="https://user-images.githubusercontent.com/78603128/119170563-006df900-ba96-11eb-9a69-0ce6ca76b099.png"/>
+</p>
 
+else you cant run the file
+<p align="center">
+<image src="https://user-images.githubusercontent.com/78603128/119170540-f51acd80-ba95-11eb-9b92-76ca68b37511.png"/>
+</p>
 
 
 
