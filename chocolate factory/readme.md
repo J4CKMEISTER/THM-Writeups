@@ -47,7 +47,7 @@ and we found the hidden directory named :
 
 guess what ? who need credentials when you can access the page without one ?
 
-"validate.php" , Look input validation goes here
+**"validate.php"** , look like input validation goes here
 
 <p align="center">
  
