@@ -12,14 +12,14 @@ look like a credential is required
 
 lets try <a href="https://tools.kali.org/web-applications/gobuster">gobuster(CLI)/dirbuster(GUI)</a> to brute force the web directory for hidden files
 ![image](https://user-images.githubusercontent.com/78603128/119142807-7879f600-ba79-11eb-8cc8-0236aca6441f.png)
-Note : <br/>
+<br/>Note : <br/>
 <ul>
 <li>dir specify brute force the directory <li/>
 <li>-u specify the web browser url<li/>
 <li>-w specify the dictionary path for the attack<li/>
 <li>-t specify how many thread to be used for the attack<li/> 
 <li>-o specify output file name<li/>
-<ul>
+</ul>
 and we found the hidden directory named :
 
 "home.php" 
