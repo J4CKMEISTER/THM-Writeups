@@ -1,5 +1,6 @@
 
 ## Description
+This <a href="https://tryhackme.com/room/chocolatefactory">challenge</a> is provided by <a href="tryhackme.com">tryhackme.com</a>
 <p align="center">
 <image src="https://user-images.githubusercontent.com/78603128/119040663-43719300-b9e8-11eb-93b9-9084d21a8b85.png"/>
  <ul>
@@ -118,9 +119,9 @@ Remember to chmod 700 on the saved file
 <image src="https://user-images.githubusercontent.com/78603128/119170563-006df900-ba96-11eb-9a69-0ce6ca76b099.png"/>
 </p>
 
-else you cant run the file
+else you get error like this
 <p align="center">
-<image src="https://user-images.githubusercontent.com/78603128/119170540-f51acd80-ba95-11eb-9b92-76ca68b37511.png"/>
+<image src="https://user-images.githubusercontent.com/78603128/119171473-3495e980-ba97-11eb-8cd3-43eb86e7309d.png"/>
 </p>
 
 
