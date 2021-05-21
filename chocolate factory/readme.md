@@ -70,31 +70,36 @@ remember to start a listener on the port you input
 
 And within few seconds , we will get a reverse shell and able to run as **www-data** !
 
-
+<p align="center">
 <image src="https://user-images.githubusercontent.com/78603128/119147026-cabd1600-ba7d-11eb-88cc-a69eadb0ac62.png"/>
-
+</p>
 
 now we search for the key , key_rey_key seems sus and by trying strings command we found the key
 
-
+<p align="center">
 <image src="https://user-images.githubusercontent.com/78603128/119148594-38b60d00-ba7f-11eb-8a24-17a264bc10d0.png"/>
-
+</p>
 
 and we are lucky to found the user credentials in plain text inside the **validate.php** code
 <br/>
 
+<p align="center">
 <image src="https://user-images.githubusercontent.com/78603128/119148927-92b6d280-ba7f-11eb-8a86-b8d60f193eff.png"/>
+</p>
 
 switch user to charlie and we got the flag , oh yeah.. you cant switch user here..
 <br/>
 
+<p align="center">
 <image src="https://user-images.githubusercontent.com/78603128/119149250-ede8c500-ba7f-11eb-94b8-21823441721b.png"/>
+</p>
 
 looking around charlie directory , we found RSA private and public key to login via SSH !
 <br/>
 
+<p align="center">
 <image src="https://user-images.githubusercontent.com/78603128/119149549-36a07e00-ba80-11eb-9cd8-c3f5e9b77a83.png"/>
-
+</p>
 
 
 
