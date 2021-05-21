@@ -1,3 +1,4 @@
 # THM-Writeups
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Chilax.png" alt="TryHackMe">
+
+![image](https://user-images.githubusercontent.com/78603128/119178907-e259c600-baa0-11eb-9282-5c5f5ada3d3d.png)
