@@ -1,6 +1,6 @@
 
 ## Description
-This <a href="https://tryhackme.com/room/chocolatefactory">challenge</a> is provided by <a href="tryhackme.com">tryhackme.com</a>
+This <a href="https://tryhackme.com/room/chocolatefactory">challenge</a> is provided by <a href="https://tryhackme.com">https://tryhackme.com/dashboard</a>
 <p align="center">
 <image src="https://user-images.githubusercontent.com/78603128/119040663-43719300-b9e8-11eb-93b9-9084d21a8b85.png"/>
  <ul>
