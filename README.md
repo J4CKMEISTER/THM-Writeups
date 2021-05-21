@@ -1,3 +1,3 @@
 # THM-Writeups
 
-<script src="https://tryhackme.com/badge/75202"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Chilax.png" alt="TryHackMe">
