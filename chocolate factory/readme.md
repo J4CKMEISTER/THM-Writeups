@@ -172,7 +172,7 @@ We are now ROOT YEAH BOI and we found one python file (probably flag)
  </p>
 
 ## Hands on 2
-Alternatively , to get charlie's password to log into the web browser we can use nmap/rustsan to scan for network open ports revealed the `` ftp service `` exists and contain one image (**gum_room.jpg**)
+Alternatively , to get charlie's password to log into the web browser we can use nmap/rustsan to scan for network open ports . It was found that the `` ftp service `` exists and it contain one image (**gum_room.jpg**)
  <p align="center">
 <image src="https://user-images.githubusercontent.com/78603128/119174953-ce5f9580-ba9b-11eb-96fa-28042a4b4c6c.png"/>
 </p>
