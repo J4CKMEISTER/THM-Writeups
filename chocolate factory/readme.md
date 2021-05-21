@@ -40,7 +40,7 @@ and we found the hidden directory named :
 
 guess what ? who need credentials when you can access the page without one ?
 
-"validate.php" , Look like incorrect credentials goes here
+"validate.php" , Look input validation goes here
 
 <p align="center">
  
@@ -88,7 +88,7 @@ and we are lucky to found the user credentials in plain text inside the **valida
 <image src="https://user-images.githubusercontent.com/78603128/119148927-92b6d280-ba7f-11eb-8a86-b8d60f193eff.png"/>
 </p>
 
-switch user to charlie and we got the flag , oh yeah.. you cant switch user here..
+switch user to charlie and we got the flag but .. you cant switch user here..
 <br/>
 
 <p align="center">
