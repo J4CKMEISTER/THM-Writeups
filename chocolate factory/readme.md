@@ -39,7 +39,7 @@ Note : <br/>
 
 and we found the hidden directory named :
 
-"home.php" 
+**"home.php" **
 
 <p align="center">
 <image src="https://user-images.githubusercontent.com/78603128/119143134-d8709c80-ba79-11eb-85fb-d91fe7fb960f.png"/>
@@ -134,7 +134,7 @@ After successfully login , you are now `charlie`
 <image src="https://user-images.githubusercontent.com/78603128/119172772-ea156c80-ba98-11eb-9d69-1bde7535386f.png"/>
 
 </p>
-And we got the `user` flag !
+And we got the **user** flag !
  <p align="center">
 <image src="https://user-images.githubusercontent.com/78603128/119173016-352f7f80-ba99-11eb-8cdd-19c7f06259af.png"/>
  </p>
