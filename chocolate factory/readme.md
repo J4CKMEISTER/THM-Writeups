@@ -13,7 +13,7 @@ This <a href="https://tryhackme.com/room/chocolatefactory">challenge</a> is prov
  
 ## Hands on 1
 
-First , we slap the ip into our browser to check if port 80(common web server) is up and yes it is !
+First , we slap the ip into our browser to check if port 80(common web server port) is up and yes it is !
 <p align="center">
 <image src="https://user-images.githubusercontent.com/78603128/119142345-fa1d5400-ba78-11eb-97a9-5e0b27c4618e.png"/>
 </p>
@@ -159,7 +159,7 @@ We are now ROOT YEAH BOI and we found one python file (probably flag)
 <image src="https://user-images.githubusercontent.com/78603128/119174264-f1d61080-ba9a-11eb-8277-ab7fb5d64380.png"/>
 </p>
 
- Enter the key we found earlier and we got the flag !
+ Enter the key we found earlier and we got the root flag !
   <p align="center">
  <image src="https://user-images.githubusercontent.com/78603128/119174570-51ccb700-ba9b-11eb-94de-4e24d661a787.png"/>
  </p>
